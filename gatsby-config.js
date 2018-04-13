@@ -1,4 +1,6 @@
 module.exports = {
+  pathPrefix: `/example-wordpress`,
+
   siteMetadata: {
     title: 'Gatsby + Wordpress!!',
   },
